@@ -1,2 +1,3 @@
-# Practice.GeeksForGeeks
-My correct answers at practice.geeksforgeeks.org
+# Practice.GeeksForGeeks and More...
+### Most of these are my correct answers at [geeksforgeeks](http://www.practice.geeksforgeeks.org)
+### Also includes some improvements of code and practice of other codes
